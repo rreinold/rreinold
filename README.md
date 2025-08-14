@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python | Golang | TypeScript | Bash | Java | Swift | Rust
+**Languages:** Python | Golang | TypeScript | Bash
 
 **AI/ML:** PyTorch | LLMs | LangChain | OpenAI | MCP | RAG | SageMaker | Transformers | TensorFlow
 

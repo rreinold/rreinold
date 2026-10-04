@@ -4,6 +4,7 @@
 
 ## 🔬 Current Focus
 
+- **Head of AI @ Motormia** - The best AI for automotive enthusiasts, we own and refine the largest vehicle datasets
 - **Head of AI @ Winning Edge** - Leading multi-modal AI pipelines for optimizing biomechanical movements for Olympic medalists
 - **Technical AI Educator @ Edifai** - Designing hands-on ML/AI building programs for full stack applications
 - **AI Engineer Consultant @ Decentra** - Building and deploying ML models and AI-driven systems
